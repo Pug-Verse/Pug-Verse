@@ -1,8 +1,8 @@
 - 👋 Hola, soy @Pug-Verse
-- 💻 Soy investigador autodidacta de ciberseguridad, junior pentester y programador
-- 🌱 Actualmente estoy aprendiendo y perfeccionando mis habilidades en Bug Bounty, Red y Blue Team y OSINT para convertirme en un profesional de seguridad completo.
-- 🤝 Persona con mucha motivación y aprendizaje rápido
-- ❤️ Me encanta programar y hacer máquinas HTB, TryHackMe
+- 💻 Soy investigador autodidacta de ciberseguridad, junior pentester y programador.
+- 🌱 Actualmente estoy aprendiendo y perfeccionando mis habilidades en Bug Bounty, Red Team, Blue Team y OSINT, para convertirme en un profesional de la ciberseguridad completo.
+- 🤝 Persona con mucha motivación y aprendizaje rápido.
+- ❤️ Me encanta programar y hacer máquinas HackTheBox, TryHackMe.
 - 📫 Cómo contactarme: adelafuented@gmail.com
 
 # 🏆 Certificaciones:
