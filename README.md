@@ -6,7 +6,7 @@
 - 📫 Cómo contactarme: adelafuented@gmail.com
 
 # 🏆 Certificaciones:
-![microsoft-certified-azure-ai-fundamentals](https://github.com/Pug-Verse/Pug-Verse/assets/140962735/bbd7586f-a22e-4991-b1ac-79b9004bef48)
+![microsoft-certified-azure-ai-fundamentals](https://github.com/Pug-Verse/Pug-Verse/assets/140962735/4f3ed4ec-d27a-4b0d-97fe-19522a127310)
 ![ethical-hacker](https://github.com/Pug-Verse/Pug-Verse/assets/140962735/09c8fd8d-ba2f-4bdb-9655-964b982a3cf5)
 ![introduction-to-cybersecurity](https://github.com/Pug-Verse/Pug-Verse/assets/140962735/4db3d1f7-c281-4851-b780-ed93adf79139)
 ![python-essentials-1 1](https://github.com/Pug-Verse/Pug-Verse/assets/140962735/85171e00-96e6-449c-9b97-645493ae1d78)
