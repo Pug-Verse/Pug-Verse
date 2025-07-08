@@ -7,7 +7,8 @@
 
 # 🏆 Certificaciones:
 ![microsoft-certified-azure-ai-fundamentals](https://github.com/Pug-Verse/Pug-Verse/assets/140962735/bfe90f95-f8c0-4ccc-8581-02f96171dc78)
-![data-classification-and-summarization-using-ibm-gra](https://github.com/user-attachments/assets/079c41bf-4add-4ee1-93ae-f8c152c6754b)
+![data-classification-and-summarization-using-ibm-gra](https://github.com/user-attachments/assets/5495ae10-06cb-484f-85ab-9b8150a7f303)
+![getting-started-with-artificial-intelligence](https://github.com/user-attachments/assets/f66fb0bd-2136-4059-921b-4d3fed5bcd9b)
 ![ethical-hacker](https://github.com/Pug-Verse/Pug-Verse/assets/140962735/09c8fd8d-ba2f-4bdb-9655-964b982a3cf5)
 ![introduction-to-cybersecurity](https://github.com/Pug-Verse/Pug-Verse/assets/140962735/4db3d1f7-c281-4851-b780-ed93adf79139)
 ![python-essentials-1 1](https://github.com/Pug-Verse/Pug-Verse/assets/140962735/85171e00-96e6-449c-9b97-645493ae1d78)
