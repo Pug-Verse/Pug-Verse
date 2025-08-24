@@ -6,9 +6,7 @@
 - 📫 Cómo contactarme: adelafuented@gmail.com
 
 # 🏆 Certificaciones:
-<img width="114" height="114" alt="4d76b356-ed1f-4b59-a210-55014e1c854e" src="https://github.com/user-attachments/assets/30b6a9da-5fec-4ae6-b4d8-db0ff10e9da6" />
-
-
+<img width="150" height="150" alt="4d76b356-ed1f-4b59-a210-55014e1c854e" src="https://github.com/user-attachments/assets/30b6a9da-5fec-4ae6-b4d8-db0ff10e9da6" />
 
 ![microsoft-certified-azure-ai-fundamentals](https://github.com/Pug-Verse/Pug-Verse/assets/140962735/bfe90f95-f8c0-4ccc-8581-02f96171dc78)
 ![data-classification-and-summarization-using-ibm-gra](https://github.com/user-attachments/assets/5495ae10-06cb-484f-85ab-9b8150a7f303)
